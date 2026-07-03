@@ -1,0 +1,16 @@
+[
+{
+  "modid": "aibot",
+  "name": "AIBot",
+  "description": "Um mod de IA simples.",
+  "version": "6.8",
+  "mcversion": "1.12.2",
+  "url": "neal.fun",
+  "updateUrl": "",
+  "authorList": ["Modulescript"],
+  "credits": "!Agradecimentos ao Noth por ter criado o Slime Entity!",
+  "logoFile": "slime-minecraft-pfp.jpg",
+  "screenshots": ["slime-minecraft-pfp.jpg"],
+  "dependencies": []
+}
+]
